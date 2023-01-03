@@ -1,0 +1,36 @@
+7
+B OR C
+-C OR E
+A OR D OR E
+-A OR F
+-E
+-C OR D OR F
+C OR E
+14
+D OR E OR F
+B OR D OR E
+-C OR F
+-C
+D OR E
+C OR F
+-A
+B OR D OR F
+C
+A OR D OR F
+A OR E
+-C OR D
+A OR D
+B OR E
+11
+B OR D
+E
+D
+B OR F
+F
+A OR F
+A
+B
+E OR F
+D OR F
+{}
+YES
